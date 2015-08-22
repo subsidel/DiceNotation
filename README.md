@@ -1,6 +1,6 @@
 DiceNotation
 ============
-A Interpreter for standard dice notation in Java.<br>
+A Interpreter for standard dice notation in Haskell.<br>
 eg.<br>
 input: "2d6"<br> (Where 2d6 means roll two six sided dice)
 output: "Rolling 2d6: 2 6"
